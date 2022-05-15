@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T16:11:08.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="LTpQd3nK7WD_vTkFgOgD" version="18.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-15T16:12:19.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="PMFuYw342MJX7CGBsZss" version="18.0.5" type="github" pages="2">
   <diagram id="achlds9I8o8SKGrfx_QA" name="Modelo de Dominio">
     <mxGraphModel dx="734" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -191,6 +191,13 @@
         </mxCell>
         <mxCell id="sLa-sQRtWJhOcg3yCrji-20" value="{more items]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sLa-sQRtWJhOcg3yCrji-21" value="endSale()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="sLa-sQRtWJhOcg3yCrji-2">
+          <mxGeometry y="5" width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="385" as="sourcePoint" />
+            <mxPoint x="320" y="385" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
